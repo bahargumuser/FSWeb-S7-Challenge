@@ -1,0 +1,27 @@
+.Form-main {
+  display: flex;
+  justify-content: center;
+  background-image: url("https://i.pinimg.com/564x/3b/49/84/3b49845c5d4b453de61e44e9344ca5d0.jpg");
+  background-color: whitesmoke;
+  height: 80vh;
+}
+label {
+  margin-top: 5px;
+}
+label div {
+  margin-bottom: 10px;
+}
+form {
+  padding: 10px;
+  background-color: whitesmoke;
+}
+div {
+  margin: 8px 0px;
+}
+.button-submit {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  background-color: blueviolet;
+}
